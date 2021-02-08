@@ -1,0 +1,40 @@
+#admin-page {
+  padding-top: 0px;
+}
+
+#nested-comment {
+  margin-top: 60px;
+}
+
+.comment-reply {
+  display: none;
+}
+
+
+/* My Custom Edit */
+
+.delete_user{
+  display: inline;
+}
+
+.dropzone{
+  min-height: 150px;
+  border: 2px dashed #4949ff;
+  background: white;
+  padding: 20px 20px;
+}
+
+.dropzone .dz-message{
+  text-align: center;
+  margin: 2em 0;
+  font-size: 19px;
+  color: #447bf9;
+  font-weight: bold;
+}
+
+.nested-comment{
+  margin-top: 50px;
+}
+
+
+
